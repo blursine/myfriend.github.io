@@ -1,0 +1,43 @@
+* {
+  font-family: helvetica;
+}
+
+.banner img {
+  width: 500px;
+}
+<!--.banner {
+  color: white;
+  font-size: 30px;
+  background-image: url("../images/Gay_Pride_Flag.png");
+  background-size: contain;
+  text-align: center;
+  padding: 40px 0;
+  margin-top: 15px;
+}
+
+h2 {
+  text-align: center;
+  color: seagreen;
+  size 20px;
+}
+
+h3 {
+  text-align: center;
+  color: seagreen;
+}
+
+.list{
+font-size: 18px;
+text-align: center;
+}
+.list li {
+  list-style: circle;
+}
+
+.list img {
+  width: 40px;
+}
+
+.footer {
+  margin-top: 100px;
+}
